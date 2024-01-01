@@ -1,0 +1,7 @@
+git clone (url)
+
+git status
+
+git add .
+git commit -m"navbar created"
+git push origin main
